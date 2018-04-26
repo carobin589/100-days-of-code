@@ -19,6 +19,13 @@
 ###
 **Thoughts:** Suprised at how straight forward I found jQuery. I think I probably just had a bit of a mental block but weirdly learning it before digging into JavaScript meant that I could focus on what it *did* rather than exactly how it worked. Hopefully the JavaScript bits will make the how exactly clearer. Quickly set up stuff for my website projects. Have decided to do them in Atom bc it should help with linking stuff together. For the first two websites probably not going to use significant amounts of JavaScript, but might have an expiriment. Planning to commit approx 50:50 to working through tutorials vs building the code. Also going to buy myself the two Jon Duckett books as a present, in theory for finishing but who knows!
 
+### Day 4: April 26th 2018
+#####
+**Today's progress:** Did a little bith more JavaScript, can now write the maths functions. Made a start on the tribute website. 
+###
+**Thoughts:** JavaScript fairly straight forward. Need to be v concious of what variable are what. May also need reminders for the maths, but that seems to mostly be a principles problem. Started building my Ethel website in Atom. Feel slightly conflicted re: copying a load of code for the timeline. I think I might make the website proper, with bootstrap and then use that to *inspire* my handmade CodePen version to practise my CSS. 
+
+
 ### Day :
 #####
 **Today's progress:**
