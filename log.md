@@ -26,6 +26,20 @@
 **Thoughts:** JavaScript fairly straight forward. Need to be v concious of what variable are what. May also need reminders for the maths, but that seems to mostly be a principles problem. Started building my Ethel website in Atom. Feel slightly conflicted re: copying a load of code for the timeline. I think I might make the website proper, with bootstrap and then use that to *inspire* my handmade CodePen version to practise my CSS. 
 
 
+### Day 5: 28/04/2018
+#####
+**Today's progress:** worked on JavaScript and timeline
+###
+**Thoughts:** Got throught the basics of JavaScript quite quickly. Very similar to the Python principes, but given its the start probably universal principles tbh. Slightly stop and start but I kept going.
+
+
+### Day 6: 29/04/2018
+#####
+**Today's progress:** More JavaScript, mostly operators and boolean variables. Tweaked my timeline, but mostly for the commit if we are honest.
+###
+**Thoughts:** Wasn't feeling super focus on anything today, but managed to crack through a fair bit of Javascript. Got very tied up on global and local variables. But I think I might have misplaced a semi-colon. Kind of comforted that it has taken me until day 6 to get so stuck I had to look up the code. So taking that as a sign that I am improving! 
+
+
 ### Day :
 #####
 **Today's progress:**
