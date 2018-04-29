@@ -40,6 +40,13 @@
 **Thoughts:** Wasn't feeling super focus on anything today, but managed to crack through a fair bit of Javascript. Got very tied up on global and local variables. But I think I might have misplaced a semi-colon. Kind of comforted that it has taken me until day 6 to get so stuck I had to look up the code. So taking that as a sign that I am improving! 
 
 
+### Day 8: 30/04/2018
+#####
+**Today's progress:** Tiny bit of JavaScript, but mostly focused on the website. Added in photographs and a bloackquote. 
+###
+**Thoughts:** Still can't quite get over the imposter syndrome that I am just shoving other people's answers into my code. But I was pleased with my blockquote and my picture caption so hopefully i will get there! 
+
+
 ### Day :
 #####
 **Today's progress:**
