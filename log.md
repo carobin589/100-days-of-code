@@ -47,6 +47,18 @@
 **Thoughts:** Still can't quite get over the imposter syndrome that I am just shoving other people's answers into my code. But I was pleased with my blockquote and my picture caption so hopefully i will get there! 
 
 
+### Day 9: 01/05/18
+#####
+**Today's progress:** Worked on Ethel website. Managed to make javascript and about 80% of the photocarosel work.  
+###
+**Thoughts:** Really felt like I made some progress today. Managed to solve a javascript problem on my own which felt super cool. I managed to put a photocarosel into the Ethel website. Bit of a struggle to get it to fix it, I think I might need to load some javascript. 
+
+### Day 10: 02/05/18
+#####
+**Today's progress:** Worked on CV website, went over some javascript basics on codeacademy
+###
+**Thoughts:** Very choppy day. I am slightly sleepy so I don't that help. Made my way through the very basic bits of codeacademy, so that I can go back to caodecamp and work out how to lookup arrays.
+
 ### Day :
 #####
 **Today's progress:**
