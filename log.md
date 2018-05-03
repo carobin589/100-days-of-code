@@ -59,6 +59,13 @@
 ###
 **Thoughts:** Very choppy day. I am slightly sleepy so I don't that help. Made my way through the very basic bits of codeacademy, so that I can go back to caodecamp and work out how to lookup arrays.
 
+### Day 11: 03/05/18
+#####
+**Today's progress:** Fixed photograph carousel 
+###
+**Thoughts:** Just a quick one today because lots of phone calls, but managed to intigrate javascript into bootstrap which was very exciting as I managed to make my carousel work. Think I would like to build some interesting gym apps, saw one that let you look up how much you lift in terms of animals which I reckon might be doable as my end-of-hundred days project.
+
+
 ### Day :
 #####
 **Today's progress:**
