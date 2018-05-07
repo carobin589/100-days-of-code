@@ -66,8 +66,16 @@
 **Thoughts:** Just a quick one today because lots of phone calls, but managed to intigrate javascript into bootstrap which was very exciting as I managed to make my carousel work. Think I would like to build some interesting gym apps, saw one that let you look up how much you lift in terms of animals which I reckon might be doable as my end-of-hundred days project.
 
 
-### Day :
+### Day 12: 04/05/18
 #####
-**Today's progress:**
+**Today's progress:** Worked on resume on the train. 
 ###
-**Thoughts:**
+**Thoughts:** The lack of internet was suprisingly difficult. Next time I probably need to plan for next time. But decided to remove the skills bar graph thing as it mostly seemed silly. Hopefully going to use this as the basics for my codepen project.
+
+
+
+### Day 13: 07/05/18
+#####
+**Today's progress:** Finished object oriented javascript bit of CodeCamp and reversed a string!
+###
+**Thoughts:** I know I know, but actually the bank holiday did me a lot of good (and sunburn). I was able to finish off the Object Oriented bit of javascript as well as reverse a string and I was super proud because while I did some googling around I managed without the hints. Also my twitter has the wrong day, lols. 
