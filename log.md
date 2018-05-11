@@ -79,3 +79,9 @@
 **Today's progress:** Finished object oriented javascript bit of CodeCamp and reversed a string!
 ###
 **Thoughts:** I know I know, but actually the bank holiday did me a lot of good (and sunburn). I was able to finish off the Object Oriented bit of javascript as well as reverse a string and I was super proud because while I did some googling around I managed without the hints. Also my twitter has the wrong day, lols. 
+
+### Day 14 - 17: 08/05/18 to 11/05/18
+######
+**Today's (lol) progress:** Completed a little more Javascript, did the html, css, and even a little javascript on my two websites. 
+###
+**Thoughts:** Mainly that I have been kind of crap at updating the log, so my first commitment is going to be to try and improve that. Have also given up on Gitting everyday as it were, while useful if I am not colabing with someone its mostly just a vanity thing. Have made leaps and bounds on my portfolio website. Obvs it is slightly basic but I have inculded some stuff I am really proud of in there that definately didn't work in the Glasgow project which is great. I just need to get my head around javascript a little bit more.....
