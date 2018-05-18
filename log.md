@@ -85,3 +85,9 @@
 **Today's (lol) progress:** Completed a little more Javascript, did the html, css, and even a little javascript on my two websites. 
 ###
 **Thoughts:** Mainly that I have been kind of crap at updating the log, so my first commitment is going to be to try and improve that. Have also given up on Gitting everyday as it were, while useful if I am not colabing with someone its mostly just a vanity thing. Have made leaps and bounds on my portfolio website. Obvs it is slightly basic but I have inculded some stuff I am really proud of in there that definately didn't work in the Glasgow project which is great. I just need to get my head around javascript a little bit more.....
+
+### Day 18 18/05/18
+######
+**Today's progress:** Completed the codedojo basic projects, inculding a magic eight ball and a simple music based application. Half way through to do list
+###
+**Thoughts:** Clearly forgot to update again (oops!) but have been gentally working my way through some more javascript. Probably also need to work out how to use jQuery. Quite pleased with how I am doing with javascript but still haven't managed to do algorythmic stuff on code camp. 
